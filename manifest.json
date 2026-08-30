@@ -1,0 +1,27 @@
+{
+  "name": "中文 회화 — SRS 학습",
+  "short_name": "中文 회화",
+  "description": "한국인을 위한 중국어 회화 학습 앱 — SRS · 퀴즈 · 듣기 · 타이핑",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1115",
+  "theme_color": "#f7b500",
+  "orientation": "portrait",
+  "lang": "ko",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%23f7b500'/><text x='256' y='350' text-anchor='middle' font-size='320' font-family='sans-serif' font-weight='800' fill='%23000'>中</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%23f7b500'/><text x='256' y='350' text-anchor='middle' font-size='320' font-family='sans-serif' font-weight='800' fill='%23000'>中</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
